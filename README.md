@@ -45,9 +45,10 @@ Copier le code
 
 ### 1️⃣ Clone the repo
 
+Bash
 
 git clone https://github.com/FouratMejri99/React-project-starter.git
-cd react-saas-starter
+cd React-project-starter
 
 2️⃣ Install dependencies
 bash
