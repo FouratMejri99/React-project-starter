@@ -6,8 +6,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3-blue)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
-A production-ready **React.js + Vite + Tailwind CSS** starter kit designed to help you **finish projects faster** — beginner or advanced.  
-Includes **Authentication, Protected Routes, Dashboard Layout, CRUD Example, and Dark Mode** out of the box.
+## A production-ready **React.js + Vite + Tailwind CSS** starter kit designed to help you **finish projects faster** — beginner or advanced.
+
+## Includes **Authentication, Protected Routes, Dashboard Layout, CRUD Example, and Dark Mode** out of the box.
 
 ---
 
@@ -43,40 +44,43 @@ Copier le code
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repo
+1️⃣ Clone the repo
 
-```bash
-git clone https://github.com/YOUR_USERNAME/react-saas-starter.git
-cd react-saas-starter
+1- git clone https://github.com/YOUR_USERNAME/react-saas-starter.git
+2- cd react-saas-starter
+
 2️⃣ Install dependencies
-bash
-Copier le code
-npm install
+
+1- npm install
+
 3️⃣ Run dev server
-bash
-Copier le code
-npm run dev
+
+1- npm run dev
+
 4️⃣ Build for production
-bash
-Copier le code
-npm run build
-🔑 Authentication Flow
-Users can register with email & password
 
-Users can login and state is stored in Zustand
+1- npm run build
 
-On refresh, user session persists from localStorage
+## 🔑 Authentication Flow
 
-Protected routes redirect unauthenticated users to /login
+- Users can register with email & password
 
-🌙 Dark Mode
-Toggle available in Navbar
+- Users can login and state is stored in Zustand
 
-Theme persists using localStorage
+- On refresh, user session persists from localStorage
 
-Uses Tailwind’s dark: variant
+- Protected routes redirect unauthenticated users to /login
 
-📦 Tech Stack
+## 🌙 Dark Mode
+
+- Toggle available in Navbar
+
+- Theme persists using localStorage
+
+- Uses Tailwind’s dark: variant
+
+## 📦 Tech Stack
+
 React (with Vite)
 
 React Router
@@ -87,7 +91,8 @@ Tailwind CSS
 
 Zustand
 
-📸 Screenshots
+## 📸 Screenshots
+
 Add screenshots here by replacing the placeholder links:
 
 Login / Register
@@ -96,19 +101,25 @@ Dashboard
 
 Dark Mode
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo, make improvements, and submit PRs.
 
-📜 License
+## 📜 License
+
 This project is licensed under the MIT License.
 
-🌟 Extra Tips
-Replace https://api.example.com in api.js with your backend URL.
+## 🌟 Extra Tips
 
-Add more pages under DashboardLayout by creating nested routes.
+- Replace https://api.example.com in api.js with your backend URL.
 
-You can extend CRUD examples by copying CrudExample.jsx and changing endpoints.
+- Add more pages under DashboardLayout by creating nested routes.
 
-Customize Tailwind theme in tailwind.config.js for colors, fonts, etc.
+- You can extend CRUD examples by copying CrudExample.jsx and changing endpoints.
+
+- Customize Tailwind theme in tailwind.config.js for colors, fonts, etc.
+
+```
+
 ```
