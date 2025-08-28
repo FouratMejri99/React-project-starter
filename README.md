@@ -44,22 +44,33 @@ Copier le code
 
 ## 🚀 Getting Started
 
-1️⃣ Clone the repo
+1️⃣ Clone the repo :
 
-1- git clone https://github.com/YOUR_USERNAME/react-saas-starter.git
-2- cd react-saas-starter
+```
+git clone https://github.com/YOUR_USERNAME/react-saas-starter.git
+```
 
-2️⃣ Install dependencies
+```
+cd react-saas-starter
+```
 
-1- npm install
+2️⃣ Install dependencies :
 
-3️⃣ Run dev server
+```
+npm install
+```
 
-1- npm run dev
+3️⃣ Run dev server :
 
-4️⃣ Build for production
+```
+npm run dev
+```
 
-1- npm run build
+4️⃣ Build for production :
+
+```
+npm run build
+```
 
 ## 🔑 Authentication Flow
 
@@ -81,34 +92,34 @@ Copier le code
 
 ## 📦 Tech Stack
 
-React (with Vite)
+- React (with Vite)
 
-React Router
+- React Router
 
-React Query
+- React Query
 
-Tailwind CSS
+- Tailwind CSS
 
-Zustand
+- Zustand
 
 ## 📸 Screenshots
 
-Add screenshots here by replacing the placeholder links:
+- Add screenshots here by replacing the placeholder links:
 
-Login / Register
+- Login / Register
 
-Dashboard
+- Dashboard
 
-Dark Mode
+- Dark Mode
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-Feel free to fork this repo, make improvements, and submit PRs.
+- Contributions, issues, and feature requests are welcome!
+- Feel free to fork this repo, make improvements, and submit PRs.
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
 ## 🌟 Extra Tips
 
@@ -119,7 +130,3 @@ This project is licensed under the MIT License.
 - You can extend CRUD examples by copying CrudExample.jsx and changing endpoints.
 
 - Customize Tailwind theme in tailwind.config.js for colors, fonts, etc.
-
-```
-
-```
