@@ -27,18 +27,35 @@
 
 ## 📂 Project Structure
 
+```sh
 src/
-├── hooks/ # Custom hooks (useDarkMode, etc.)
-├── layouts/ # Dashboard layout (sidebar + navbar)
-├── pages/ # Page components (Home, Login, Register, Dashboard, CRUD)
-├── store/ # Zustand store (auth state)
-├── utils/ # Query client setup
-├── App.jsx # Routes + Providers
-├── main.jsx # Entry point
-└── index.css # Tailwind base styles
+├── hooks/             # Custom React hooks (e.g., useDarkMode, useFetch)
+│   └── useDarkMode.jsx
+│
+├── layouts/           # Layout components like Dashboard, with sidebar + navbar
+│   └── DashboardLayout.jsx
+│
+├── pages/             # All page components
+│   ├── Home.jsx
+│   ├── Login.jsx
+│   ├── Register.jsx
+│   ├── Dashboard.jsx
+│   └── crud/          # CRUD-specific pages
+│       ├── CreateItem.jsx
+│       ├── EditItem.jsx
+│       └── ListItems.jsx
+│
+├── store/             # Zustand store for global state (e.g., auth)
+│   └── authStore.js
+│
+├── utils/             # Utility functions / setup files
+│   └── queryClient.js # React Query client setup
+│
+├── App.jsx            # Main routes + providers
+├── main.jsx           # App entry point (ReactDOM.render / createRoot)
+└── index.css          # Tailwind base styles
 
-yaml
-Copier le code
+```
 
 ---
 
