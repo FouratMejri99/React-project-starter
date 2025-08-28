@@ -6,7 +6,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3-blue)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
-## A production-ready **React.js + Vite + Tailwind CSS** starter kit designed to help you **finish projects faster** — beginner or advanced.
+## A production ready To use **React.js + Vite + Tailwind CSS** starter kit designed to help you **finish projects faster** — beginner or advanced.
 
 ## Includes **Authentication, Protected Routes, Dashboard Layout, CRUD Example, and Dark Mode** out of the box.
 
