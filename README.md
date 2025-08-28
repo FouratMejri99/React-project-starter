@@ -8,7 +8,7 @@
 
 ## A production ready To use **React.js + Vite + Tailwind CSS** starter kit designed to help you **finish projects faster** — beginner or advanced.
 
-## Includes **Authentication, Protected Routes, Dashboard Layout, CRUD Example, and Dark Mode** out of the box.
+- Includes **Authentication, Protected Routes, Dashboard Layout, CRUD Example, and Dark Mode** out of the box.
 
 ---
 
